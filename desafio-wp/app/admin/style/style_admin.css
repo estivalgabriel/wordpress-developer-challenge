@@ -1,0 +1,32 @@
+#wpcontent .inside  label{
+  font-size: 15px;
+  font-weight: bold;
+  display: block;
+  padding: 10px 0;
+}
+
+#wpcontent .inside input[type="text"]{
+  width: 100%;
+  height: auto;
+  padding: 10px;
+}
+
+#wpcontent .inside p{
+  font-size: 14px;
+  padding: 0 5px;
+  color: grey;
+  display: block;
+}
+
+#wpcontent .inside textarea{
+  width: 100%;
+  height: auto;
+  padding: 10px;
+}
+
+#normal-sortables h2 span{
+  font-size: 15px;
+  font-weight: bold;
+  display: block;
+  padding: 10px 0;
+}
